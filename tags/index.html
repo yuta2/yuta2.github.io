@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next pisces use-motion" lang="zh-tw">
+<html class="theme-next pisces use-motion" lang="zh-TW">
 <head>
   <!-- hexo-inject:begin --><!-- hexo-inject:end --><meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,6 +40,32 @@
 
 
 
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
 
 
 
@@ -64,6 +90,9 @@
 
 
 
+  <meta property="fb:admins" content="">
+  <meta property="fb:app_id" content="1837762593216692">
+
 
 
 <meta name="description" content="生命中的賤人就是你的貴人">
@@ -72,7 +101,7 @@
 <meta property="og:url" content="http://localhost:4000/tags/index.html">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:description" content="生命中的賤人就是你的貴人">
-<meta property="og:updated_time" content="2017-05-27T15:11:58.000Z">
+<meta property="og:updated_time" content="2017-05-29T17:31:39.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="tags">
 <meta name="twitter:description" content="生命中的賤人就是你的貴人">
@@ -88,7 +117,7 @@
     fancybox: true,
     motion: true,
     duoshuo: {
-      userId: '0',
+      userId: 'undefined',
       author: '博主'
     },
     algolia: {
@@ -112,9 +141,27 @@
   <title>tags | Hexo</title><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="zh-tw">
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-TW">
 
   
+<!-- hexo-inject:begin --><!-- hexo-inject:end --><script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1837762593216692',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/zh_TW/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
 
 
 
@@ -135,7 +182,7 @@
     
   
 
-  <!-- hexo-inject:begin --><!-- hexo-inject:end --><div class="container sidebar-position-left">
+  <div class="container sidebar-position-left">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -274,11 +321,7 @@
           
   <div class="comments" id="comments">
     
-      <div id="disqus_thread">
-        <noscript>
-          Please enable JavaScript to view the
-          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-        </noscript>
+      <div class="fb-comments" data-href="http://localhost:4000/tags/index.html" data-numposts="10" data-width="100%" data-colorscheme="light">
       </div>
     
   </div>
@@ -305,7 +348,7 @@
 
       <section class="site-overview sidebar-panel sidebar-panel-active">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <img class="site-author-image" itemprop="image" src="/images/avatar.gif" alt="Yuta Tu">
+          <img class="site-author-image" itemprop="image" src="http://culture.people.com.cn/NMediaFile/2013/1220/MAIN201312201340000217953570982.jpg" alt="Yuta Tu">
           <p class="site-author-name" itemprop="name">Yuta Tu</p>
            
               <p class="site-description motion-element" itemprop="description">生命中的賤人就是你的貴人</p>
@@ -316,7 +359,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">1</span>
                 <span class="site-state-item-name">文章</span>
               </a>
             </div>
@@ -324,15 +367,6 @@
 
           
 
-          
-            
-            
-            <div class="site-state-item site-state-tags">
-              
-                <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">標籤</span>
-              
-            </div>
           
 
         </nav>
@@ -399,6 +433,26 @@
 
 
         
+<div class="busuanzi-count">
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv">
+      <i class="fa fa-user"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+      
+    </span>
+  
+
+  
+    <span class="site-pv">
+      <i class="fa fa-eye"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+      
+    </span>
+  
+</div>
+
 
         
       </div>

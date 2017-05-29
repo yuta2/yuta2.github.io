@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next pisces use-motion" lang="zh-tw">
+<html class="theme-next pisces use-motion" lang="zh-TW">
 <head>
   <!-- hexo-inject:begin --><!-- hexo-inject:end --><meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -40,6 +40,32 @@
 
 
 
+  
+  
+  
+  
+
+  
+    
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
 
 
 
@@ -64,6 +90,9 @@
 
 
 
+  <meta property="fb:admins" content="">
+  <meta property="fb:app_id" content="1837762593216692">
+
 
 
 <meta name="description" content="WelcomeWelcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub">
@@ -72,7 +101,7 @@
 <meta property="og:url" content="http://localhost:4000/2017/05/27/hello-world/index.html">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:description" content="WelcomeWelcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub">
-<meta property="og:updated_time" content="2017-05-29T10:24:13.000Z">
+<meta property="og:updated_time" content="2017-05-29T15:33:08.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hello World">
 <meta name="twitter:description" content="WelcomeWelcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub">
@@ -88,7 +117,7 @@
     fancybox: true,
     motion: true,
     duoshuo: {
-      userId: '0',
+      userId: 'undefined',
       author: '博主'
     },
     algolia: {
@@ -112,9 +141,27 @@
   <title>Hello World | Hexo</title><!-- hexo-inject:begin --><!-- hexo-inject:end -->
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="zh-tw">
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-TW">
 
   
+<!-- hexo-inject:begin --><!-- hexo-inject:end --><script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1837762593216692',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/zh_TW/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
 
 
 
@@ -135,7 +182,7 @@
     
   
 
-  <!-- hexo-inject:begin --><!-- hexo-inject:end --><div class="container sidebar-position-left page-post-detail">
+  <div class="container sidebar-position-left page-post-detail">
     <div class="headband"></div>
 
     <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
@@ -266,7 +313,7 @@
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Yuta Tu">
       <meta itemprop="description" content="">
-      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="image" content="http://culture.people.com.cn/NMediaFile/2013/1220/MAIN201312201340000217953570982.jpg">
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
@@ -310,7 +357,7 @@
                   <i class="fa fa-comment-o"></i>
                 </span>
                 <a href="/2017/05/27/hello-world/#comments" itemprop="discussionUrl">
-                  <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2017/05/27/hello-world/" itemprop="commentCount"></span>
+                  <span class="post-comments-count fb-comments-count" data-href="http://localhost:4000/2017/05/27/hello-world/" itemprop="commentCount">0</span> comments
                 </a>
               </span>
             
@@ -320,7 +367,31 @@
           
 
           
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv"><i class="fa fa-file-o"></i>
+            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
 
+          
+            <div class="post-wordcount">
+              
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">字數統計</span>
+                
+                <span title="字數統計">
+                  79
+                </span>
+              
+
+              
+
+              
+            </div>
           
 
           
@@ -374,24 +445,18 @@
 
       
         
-      
+          <div class="social-like">
+            
 
-      
-        <div class="post-nav">
-          <div class="post-nav-next post-nav-item">
+            
+              <div class="fb_like">
+                <div class="fb-like" data-layout="button_count" data-share="true"></div>
+              </div>
             
           </div>
+        
+      
 
-          <span class="post-nav-divider"></span>
-
-          <div class="post-nav-prev post-nav-item">
-            
-              <a href="/2017/05/27/My-New-Post/" rel="prev" title="使用 StackEdit 編輯 Markdown.">
-                使用 StackEdit 編輯 Markdown. <i class="fa fa-chevron-right"></i>
-              </a>
-            
-          </div>
-        </div>
       
 
       
@@ -414,11 +479,7 @@
           
   <div class="comments" id="comments">
     
-      <div id="disqus_thread">
-        <noscript>
-          Please enable JavaScript to view the
-          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
-        </noscript>
+      <div class="fb-comments" data-href="http://localhost:4000/2017/05/27/hello-world/" data-numposts="10" data-width="100%" data-colorscheme="light">
       </div>
     
   </div>
@@ -454,7 +515,7 @@
 
       <section class="site-overview sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
-          <img class="site-author-image" itemprop="image" src="/images/avatar.gif" alt="Yuta Tu">
+          <img class="site-author-image" itemprop="image" src="http://culture.people.com.cn/NMediaFile/2013/1220/MAIN201312201340000217953570982.jpg" alt="Yuta Tu">
           <p class="site-author-name" itemprop="name">Yuta Tu</p>
            
               <p class="site-description motion-element" itemprop="description">生命中的賤人就是你的貴人</p>
@@ -465,7 +526,7 @@
           
             <div class="site-state-item site-state-posts">
               <a href="/archives">
-                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-count">1</span>
                 <span class="site-state-item-name">文章</span>
               </a>
             </div>
@@ -473,15 +534,6 @@
 
           
 
-          
-            
-            
-            <div class="site-state-item site-state-tags">
-              
-                <span class="site-state-item-count">1</span>
-                <span class="site-state-item-name">標籤</span>
-              
-            </div>
           
 
         </nav>
@@ -564,6 +616,26 @@
 
 
         
+<div class="busuanzi-count">
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv">
+      <i class="fa fa-user"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+      
+    </span>
+  
+
+  
+    <span class="site-pv">
+      <i class="fa fa-eye"></i>
+      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+      
+    </span>
+  
+</div>
+
 
         
       </div>
