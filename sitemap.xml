@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:4000/tags/index.html</loc>
+    <loc>http://localhost:4000/categories/index.html</loc>
     
-    <lastmod>2017-05-29T17:31:39.000Z</lastmod>
+    <lastmod>2017-05-29T19:39:06.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://localhost:4000/2017/05/27/hello-world/</loc>
+    <loc>http://localhost:4000/2017/05/30/stackedit/</loc>
     
-    <lastmod>2017-05-29T15:33:08.000Z</lastmod>
+    <lastmod>2017-05-29T19:28:52.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://localhost:4000/404/index.html</loc>
     
-    <lastmod>2017-05-29T13:51:41.000Z</lastmod>
+    <lastmod>2017-05-29T18:59:59.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/tags/index.html</loc>
+    
+    <lastmod>2017-05-29T18:57:44.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/2017/05/27/hello-world/</loc>
+    
+    <lastmod>2017-05-29T18:36:47.000Z</lastmod>
     
   </url>
   
