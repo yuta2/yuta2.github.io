@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://localhost:4000/"/>
-  <updated>2017-05-29T20:19:45.000Z</updated>
+  <updated>2017-05-30T09:16:02.000Z</updated>
   <id>http://localhost:4000/</id>
   
   <author>
@@ -14,6 +14,94 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CE-101 資訊部門之功能及職責劃分</title>
+    <link href="http://localhost:4000/2017/05/30/%E8%B3%87%E8%A8%8A%E9%83%A8%E9%96%80%E4%B9%8B%E5%8A%9F%E8%83%BD%E5%8F%8A%E8%81%B7%E8%B2%AC%E5%8A%83%E5%88%86/"/>
+    <id>http://localhost:4000/2017/05/30/資訊部門之功能及職責劃分/</id>
+    <published>2017-05-30T09:16:02.000Z</published>
+    <updated>2017-05-30T09:16:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第一節-控制目標"><a href="#第一節-控制目標" class="headerlink" title="第一節 控制目標"></a>第一節 控制目標</h2><ol>
+<li>定義明確之資訊部門權責，俾使資訊部門有遵循之標準。</li>
+<li>公司資訊資源統一利用管理，以達到最佳效用。</li>
+<li>為確保本公司各部門對所使用之電子資料自主性，並保持資料之正確與安全。</li>
+</ol>
+<h2 id="第二節-風險分析"><a href="#第二節-風險分析" class="headerlink" title="第二節 風險分析"></a>第二節 風險分析</h2><ol>
+<li>資訊部門與使用單位權責未劃分，或資訊部門權責不明確。</li>
+<li>資訊部門或使用單位未依其權責處理各項作業。</li>
+</ol>
+<h2 id="第三節-承辦（權責）單位"><a href="#第三節-承辦（權責）單位" class="headerlink" title="第三節 承辦（權責）單位"></a>第三節 承辦（權責）單位</h2><ol>
+<li>資訊部門</li>
+</ol>
+<h2 id="第四節-作業程序"><a href="#第四節-作業程序" class="headerlink" title="第四節 作業程序"></a>第四節 作業程序</h2><h3 id="資訊部門之功能"><a href="#資訊部門之功能" class="headerlink" title="資訊部門之功能"></a>資訊部門之功能</h3><p>整合全公司電腦資源之運用及資訊安全之管理:</p>
+<ol>
+<li>電腦軟／硬體之規劃、評估與維護。</li>
+<li>視業務需要統籌規劃及調配公司之電腦軟／硬體。</li>
+<li>資訊部門之電腦軟／硬體設備之採購與維護。</li>
+<li>資訊網路之規劃、架設與維護。</li>
+<li>各類套裝軟體之導入。</li>
+<li>應用系統之開發與維護。</li>
+<li>公司電子資料安全管理。</li>
+</ol>
+<h3 id="資訊部門之職務劃分"><a href="#資訊部門之職務劃分" class="headerlink" title="資訊部門之職務劃分"></a>資訊部門之職務劃分</h3><p><strong>資訊部門之內部人員編制及所負責職務由資訊部門主管擬訂。<br>依職能區分如下：</strong></p>
+<ol>
+<li>資訊部門主管<ul>
+<li>負責管理資訊部門，主導各項資訊系統更新、建置的規劃及執行。</li>
+<li>負責各部門之溝通協調及評估，並檢核各部門業務需求。</li>
+</ul>
+</li>
+<li>系統管理員<ul>
+<li>負責維護、調校、測試資訊系統，維持系統程式與各應用軟體之正常運作。</li>
+<li>負責資訊系統使用者帳號及權限的設定。</li>
+</ul>
+</li>
+<li>程式設計員<ul>
+<li>應用程式之開發規劃、邏輯流程設計、程式撰寫、測試除錯及編製應用程式之書面文件。</li>
+</ul>
+</li>
+<li>資料庫管理員<ul>
+<li>負責資料庫之維護、備份、資料回覆。資料庫管理人員負責資料庫之管理，不得與應用程式設計員同一人。</li>
+</ul>
+</li>
+<li>硬體維護員<ul>
+<li>負責電腦硬體維護、網路架設及維護。</li>
+</ul>
+</li>
+</ol>
+<h3 id="資訊部門與使用部門之權責劃分"><a href="#資訊部門與使用部門之權責劃分" class="headerlink" title="資訊部門與使用部門之權責劃分"></a>資訊部門與使用部門之權責劃分</h3><ol>
+<li>資訊部門依使用部門所提需求，進行系統開發、程式設計及系統上線，提供使用部門迅速與確實之資訊。</li>
+<li>公司之區域網路、個人電腦由資訊部門統籌調撥管理，各部門使用人員對其所配置之區域網路、個人電腦應負保管之責任，並維護設備清潔。</li>
+<li>使用部門負責電腦系統內之資料輸入、更正與報表輸出。</li>
+<li>資料庫內資料由使用部門負責維護，非經適當授權，資訊部門不得從事資料之輸入、更正與報表輸出。</li>
+<li>資訊部門對使用單位之資料處理負有稽核之責任，若使用者進行錯誤的資料處理，資訊部門可提出稽核報表，提供使用單位進行修正，以維護系統資料的正確性。</li>
+</ol>
+<h2 id="第五節-控制重點"><a href="#第五節-控制重點" class="headerlink" title="第五節 控制重點"></a>第五節 控制重點</h2><ol>
+<li>資訊部門人員之職掌、資訊部門與使用部門之權責，是否明確劃分。</li>
+<li>電子資料處理是否依權責有效執行。</li>
+<li>是否訂有年度工作計劃？並定期進行進度追蹤？</li>
+</ol>
+<h2 id="第六節-相關資料"><a href="#第六節-相關資料" class="headerlink" title="第六節 相關資料"></a>第六節 相關資料</h2><ol>
+<li>組織圖</li>
+</ol>
+<h2 id="第七節-使用表單"><a href="#第七節-使用表單" class="headerlink" title="第七節 使用表單"></a>第七節 使用表單</h2><ol>
+<li>關鍵績效指標(KPI)設定表。</li>
+<li>年度預算表。</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;第一節-控制目標&quot;&gt;&lt;a href=&quot;#第一節-控制目標&quot; class=&quot;headerlink&quot; title=&quot;第一節 控制目標&quot;&gt;&lt;/a&gt;第一節 控制目標&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;定義明確之資訊部門權責，俾使資訊部門有遵循之標準。&lt;/li&gt;
+&lt;li&gt;公司資訊資
+    
+    </summary>
+    
+    
+      <category term="管理辦法" scheme="http://localhost:4000/tags/%E7%AE%A1%E7%90%86%E8%BE%A6%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown 语法和 MWeb 写作使用说明</title>
@@ -71,7 +159,7 @@
 <h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>Markdown 语法：</p>
 <figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">email <span class="xml"><span class="tag">&lt;<span class="name">example@example.com</span>&gt;</span></span></div><div class="line">[<span class="string">GitHub</span>](<span class="link">http://github.com</span>)</div><div class="line">自动生成连接  <span class="xml"><span class="tag">&lt;<span class="name">http:</span>//<span class="attr">www.github.com</span>/&gt;</span></span></div></pre></td></tr></table></figure>
 <p><code>Control + Shift + L</code> 可插入Markdown语法。<br>如果是 MWeb 的文档库中的文档，拖放或<code>CMD + Option + I</code> 导入非图片时，会生成连接。<br>效果如下：</p>
-<p>Email 连接： <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#111;&#x3a;&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#120;&#x61;&#x6d;&#112;&#x6c;&#x65;&#46;&#99;&#x6f;&#x6d;">&#x65;&#x78;&#97;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#120;&#x61;&#x6d;&#112;&#x6c;&#x65;&#46;&#99;&#x6f;&#x6d;</a><br><a href="http://github.com" target="_blank" rel="external">连接标题Github网站</a><br>自动生成连接像： <a href="http://www.github.com/" target="_blank" rel="external">http://www.github.com/</a> 这样</p>
+<p>Email 连接： <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#58;&#101;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;">&#101;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;</a><br><a href="http://github.com" target="_blank" rel="external">连接标题Github网站</a><br>自动生成连接像： <a href="http://www.github.com/" target="_blank" rel="external">http://www.github.com/</a> 这样</p>
 <h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><p>Markdown 语法：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">某某说:</div><div class="line"><span class="meta">&gt;</span><span class="bash"> 第一行引用</span></div><div class="line"><span class="meta">&gt;</span><span class="bash"> 第二行费用文字</span></div></pre></td></tr></table></figure>
 <p><code>CMD + Shift + B</code> 可插入Markdown语法。<br>效果如下：</p>
