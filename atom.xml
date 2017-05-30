@@ -27,6 +27,7 @@
 <li>公司資訊資源統一利用管理，以達到最佳效用。</li>
 <li>為確保本公司各部門對所使用之電子資料自主性，並保持資料之正確與安全。</li>
 </ol>
+<a id="more"></a>
 <h2 id="第二節-風險分析"><a href="#第二節-風險分析" class="headerlink" title="第二節 風險分析"></a>第二節 風險分析</h2><ol>
 <li>資訊部門與使用單位權責未劃分，或資訊部門權責不明確。</li>
 <li>資訊部門或使用單位未依其權責處理各項作業。</li>
@@ -94,7 +95,9 @@
     
       &lt;h2 id=&quot;第一節-控制目標&quot;&gt;&lt;a href=&quot;#第一節-控制目標&quot; class=&quot;headerlink&quot; title=&quot;第一節 控制目標&quot;&gt;&lt;/a&gt;第一節 控制目標&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;定義明確之資訊部門權責，俾使資訊部門有遵循之標準。&lt;/li&gt;
-&lt;li&gt;公司資訊資
+&lt;li&gt;公司資訊資源統一利用管理，以達到最佳效用。&lt;/li&gt;
+&lt;li&gt;為確保本公司各部門對所使用之電子資料自主性，並保持資料之正確與安全。&lt;/li&gt;
+&lt;/ol&gt;
     
     </summary>
     
@@ -159,7 +162,7 @@
 <h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>Markdown 语法：</p>
 <figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">email <span class="xml"><span class="tag">&lt;<span class="name">example@example.com</span>&gt;</span></span></div><div class="line">[<span class="string">GitHub</span>](<span class="link">http://github.com</span>)</div><div class="line">自动生成连接  <span class="xml"><span class="tag">&lt;<span class="name">http:</span>//<span class="attr">www.github.com</span>/&gt;</span></span></div></pre></td></tr></table></figure>
 <p><code>Control + Shift + L</code> 可插入Markdown语法。<br>如果是 MWeb 的文档库中的文档，拖放或<code>CMD + Option + I</code> 导入非图片时，会生成连接。<br>效果如下：</p>
-<p>Email 连接： <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#58;&#101;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;">&#101;&#x78;&#97;&#x6d;&#112;&#108;&#x65;&#x40;&#101;&#120;&#x61;&#109;&#112;&#x6c;&#101;&#x2e;&#x63;&#111;&#109;</a><br><a href="http://github.com" target="_blank" rel="external">连接标题Github网站</a><br>自动生成连接像： <a href="http://www.github.com/" target="_blank" rel="external">http://www.github.com/</a> 这样</p>
+<p>Email 连接： <a href="&#109;&#x61;&#x69;&#108;&#x74;&#111;&#58;&#x65;&#x78;&#x61;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#46;&#99;&#111;&#109;">&#x65;&#x78;&#x61;&#109;&#x70;&#x6c;&#x65;&#x40;&#x65;&#120;&#97;&#x6d;&#x70;&#x6c;&#x65;&#46;&#99;&#111;&#109;</a><br><a href="http://github.com" target="_blank" rel="external">连接标题Github网站</a><br>自动生成连接像： <a href="http://www.github.com/" target="_blank" rel="external">http://www.github.com/</a> 这样</p>
 <h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><p>Markdown 语法：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">某某说:</div><div class="line"><span class="meta">&gt;</span><span class="bash"> 第一行引用</span></div><div class="line"><span class="meta">&gt;</span><span class="bash"> 第二行费用文字</span></div></pre></td></tr></table></figure>
 <p><code>CMD + Shift + B</code> 可插入Markdown语法。<br>效果如下：</p>
