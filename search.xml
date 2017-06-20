@@ -241,7 +241,7 @@ Note right of 李四: 李四愣了一下，说：
     <entry>
       <title><![CDATA[Hello World]]></title>
       <url>/2017/05/27/hello-world/</url>
-      <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p><img src="http://i.imgur.com/rFmCKES.jpg" alt="PMP Logo sml"></p>
+      <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p><img src="http://i.imgur.com/rFmCKES.jpg" alt=""></p>
 
 
 	<div class="row">

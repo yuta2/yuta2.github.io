@@ -270,9 +270,9 @@ Note right of 李四: 李四愣了一下，说：
     <link href="http://localhost:4000/2017/05/27/hello-world/"/>
     <id>http://localhost:4000/2017/05/27/hello-world/</id>
     <published>2017-05-27T14:29:33.000Z</published>
-    <updated>2017-06-20T16:00:41.000Z</updated>
+    <updated>2017-06-20T16:01:48.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p><img src="http://i.imgur.com/rFmCKES.jpg" alt="PMP Logo sml"></p>
+    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p><img src="http://i.imgur.com/rFmCKES.jpg" alt=""></p>
 
 
 	<div class="row">
@@ -295,7 +295,7 @@ Note right of 李四: 李四愣了一下，说：
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rFmCKES.jpg&quot; alt=&quot;PMP Logo sml&quot;&gt;&lt;/p&gt;
+      &lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/rFmCKES.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
 
 	&lt;div class=&quot;row&quot;&gt;
