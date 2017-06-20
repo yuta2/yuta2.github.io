@@ -270,18 +270,10 @@ Note right of 李四: 李四愣了一下，说：
     <link href="http://localhost:4000/2017/05/27/hello-world/"/>
     <id>http://localhost:4000/2017/05/27/hello-world/</id>
     <published>2017-05-27T14:29:33.000Z</published>
-    <updated>2017-06-20T16:34:56.000Z</updated>
+    <updated>2017-06-20T16:38:42.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p><img src="http://zh.mweb.im/asset/img/set-up-git.gif" alt="GitHub set up-w140"></p>
-<p><img src="http://i.imgur.com/PnxFvjR.jpg" alt="PMP Logo sml"></p>
-
-
-	<div class="row">
-    <embed src="深入浅出WPF完整版.pdf" width="100%" height="550" type="application/pdf">
-	</div>
-
-
-
+<p><img src="http://i.imgur.com/PnxFvjR.jpg" alt="PMP Logo sml"><br><img src="http://i.imgur.com/9phYfCr.jpg" alt="UNADJUSTEDNONRAW_thumb_6eb"></p>
 <p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <a id="more"></a>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -297,15 +289,7 @@ Note right of 李四: 李四愣了一下，说：
     <summary type="html">
     
       &lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://zh.mweb.im/asset/img/set-up-git.gif&quot; alt=&quot;GitHub set up-w140&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/PnxFvjR.jpg&quot; alt=&quot;PMP Logo sml&quot;&gt;&lt;/p&gt;
-
-
-	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;深入浅出WPF完整版.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
-	&lt;/div&gt;
-
-
-
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/PnxFvjR.jpg&quot; alt=&quot;PMP Logo sml&quot;&gt;&lt;br&gt;&lt;img src=&quot;http://i.imgur.com/9phYfCr.jpg&quot; alt=&quot;UNADJUSTEDNONRAW_thumb_6eb&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
