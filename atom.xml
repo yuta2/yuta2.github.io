@@ -46,29 +46,22 @@
 <li>公司電子資料安全管理。</li>
 </ol>
 <h3 id="資訊部門之職務劃分"><a href="#資訊部門之職務劃分" class="headerlink" title="資訊部門之職務劃分"></a>資訊部門之職務劃分</h3><p>資訊部門之內部人員編制及所負責職務由資訊部門主管擬訂。依職能區分如下：</p>
-<ol>
-<li>資訊部門主管<ul>
+<h4 id="資訊部門主管"><a href="#資訊部門主管" class="headerlink" title="資訊部門主管"></a>資訊部門主管</h4><ol>
 <li>負責管理資訊部門，主導各項資訊系統更新、建置的規劃及執行。</li>
 <li>負責各部門之溝通協調及評估，並檢核各部門業務需求。</li>
-</ul>
-</li>
-<li>系統管理員<ul>
+</ol>
+<h4 id="系統管理員"><a href="#系統管理員" class="headerlink" title="系統管理員"></a>系統管理員</h4><ol>
 <li>負責維護、調校、測試資訊系統，維持系統程式與各應用軟體之正常運作。</li>
 <li>負責資訊系統使用者帳號及權限的設定。</li>
-</ul>
-</li>
-<li>程式設計員<ul>
+</ol>
+<h4 id="程式設計員"><a href="#程式設計員" class="headerlink" title="程式設計員"></a>程式設計員</h4><ol>
 <li>應用程式之開發規劃、邏輯流程設計、程式撰寫、測試除錯及編製應用程式之書面文件。</li>
-</ul>
-</li>
-<li>資料庫管理員<ul>
+</ol>
+<h4 id="資料庫管理員"><a href="#資料庫管理員" class="headerlink" title="資料庫管理員"></a>資料庫管理員</h4><ol>
 <li>負責資料庫之維護、備份、資料回覆。資料庫管理人員負責資料庫之管理，不得與應用程式設計員同一人。</li>
-</ul>
-</li>
-<li>硬體維護員<ul>
+</ol>
+<h4 id="硬體維護員"><a href="#硬體維護員" class="headerlink" title="硬體維護員"></a>硬體維護員</h4><ol>
 <li>負責電腦硬體維護、網路架設及維護。</li>
-</ul>
-</li>
 </ol>
 <h3 id="資訊部門與使用部門之權責劃分"><a href="#資訊部門與使用部門之權責劃分" class="headerlink" title="資訊部門與使用部門之權責劃分"></a>資訊部門與使用部門之權責劃分</h3><ol>
 <li>資訊部門依使用部門所提需求，進行系統開發、程式設計及系統上線，提供使用部門迅速與確實之資訊。</li>
@@ -111,7 +104,7 @@
     <link href="http://localhost:4000/2017/05/30/stackedit/"/>
     <id>http://localhost:4000/2017/05/30/stackedit/</id>
     <published>2017-05-29T18:36:52.000Z</published>
-    <updated>2017-05-29T20:19:45.000Z</updated>
+    <updated>2017-06-20T13:48:48.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Markdown-的设计哲学"><a href="#Markdown-的设计哲学" class="headerlink" title="Markdown 的设计哲学"></a>Markdown 的设计哲学</h2><blockquote>
 <p>Markdown 的目標是實現「易讀易寫」。<br>不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。<br>Markdown 的語法有個主要的目的：用來作為一種網路內容的<em>寫作</em>用語言。</p>
@@ -162,7 +155,7 @@
 <h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>Markdown 语法：</p>
 <figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">email <span class="xml"><span class="tag">&lt;<span class="name">example@example.com</span>&gt;</span></span></div><div class="line">[<span class="string">GitHub</span>](<span class="link">http://github.com</span>)</div><div class="line">自动生成连接  <span class="xml"><span class="tag">&lt;<span class="name">http:</span>//<span class="attr">www.github.com</span>/&gt;</span></span></div></pre></td></tr></table></figure>
 <p><code>Control + Shift + L</code> 可插入Markdown语法。<br>如果是 MWeb 的文档库中的文档，拖放或<code>CMD + Option + I</code> 导入非图片时，会生成连接。<br>效果如下：</p>
-<p>Email 连接： <a href="&#109;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#101;&#120;&#97;&#109;&#x70;&#108;&#x65;&#x40;&#x65;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#46;&#x63;&#111;&#109;">&#101;&#120;&#97;&#109;&#x70;&#108;&#x65;&#x40;&#x65;&#120;&#x61;&#109;&#x70;&#108;&#x65;&#46;&#x63;&#111;&#109;</a><br><a href="http://github.com" target="_blank" rel="external">连接标题Github网站</a><br>自动生成连接像： <a href="http://www.github.com/" target="_blank" rel="external">http://www.github.com/</a> 这样</p>
+<p>Email 连接： <a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#101;&#x78;&#x61;&#109;&#112;&#108;&#101;&#x40;&#101;&#120;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#99;&#111;&#x6d;">&#101;&#x78;&#x61;&#109;&#112;&#108;&#101;&#x40;&#101;&#120;&#97;&#x6d;&#x70;&#108;&#x65;&#x2e;&#99;&#111;&#x6d;</a><br><a href="http://github.com" target="_blank" rel="external">连接标题Github网站</a><br>自动生成连接像： <a href="http://www.github.com/" target="_blank" rel="external">http://www.github.com/</a> 这样</p>
 <h2 id="区块引用"><a href="#区块引用" class="headerlink" title="区块引用"></a>区块引用</h2><p>Markdown 语法：</p>
 <figure class="highlight shell"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">某某说:</div><div class="line"><span class="meta">&gt;</span><span class="bash"> 第一行引用</span></div><div class="line"><span class="meta">&gt;</span><span class="bash"> 第二行费用文字</span></div></pre></td></tr></table></figure>
 <p><code>CMD + Shift + B</code> 可插入Markdown语法。<br>效果如下：</p>
@@ -277,9 +270,18 @@ Note right of 李四: 李四愣了一下，说：
     <link href="http://localhost:4000/2017/05/27/hello-world/"/>
     <id>http://localhost:4000/2017/05/27/hello-world/</id>
     <published>2017-05-27T14:29:33.000Z</published>
-    <updated>2017-05-29T20:19:48.000Z</updated>
+    <updated>2017-06-20T13:53:51.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+    <content type="html"><![CDATA[<h2 id="Welcome"><a href="#Welcome" class="headerlink" title="Welcome"></a>Welcome</h2><p><img src="http://i.imgur.com/jbo2sgr.jpg" alt="PMP Logo sml"></p>
+
+
+	<div class="row">
+    <embed src="深入浅出WPF完整版.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <a id="more"></a>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
@@ -293,7 +295,16 @@ Note right of 李四: 李四愣了一下，说：
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      &lt;h2 id=&quot;Welcome&quot;&gt;&lt;a href=&quot;#Welcome&quot; class=&quot;headerlink&quot; title=&quot;Welcome&quot;&gt;&lt;/a&gt;Welcome&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/jbo2sgr.jpg&quot; alt=&quot;PMP Logo sml&quot;&gt;&lt;/p&gt;
+
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;深入浅出WPF完整版.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+
+&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
